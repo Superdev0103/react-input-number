@@ -21,14 +21,6 @@ Input number control.
 [bundlephobia-url]: https://bundlephobia.com/result?p=rc-input-number
 [bundlephobia-image]: https://badgen.net/bundlephobia/minzip/rc-input-number
 
-## Screenshots
-
-<img src="https://user-images.githubusercontent.com/507615/83162463-61414a80-a13c-11ea-9420-971f8697d490.png" width="288"/>
-
-## Install
-
-[![rc-input-number](https://nodei.co/npm/rc-input-number.png)](https://npmjs.org/package/rc-input-number)
-
 ## Usage
 
 ```js
